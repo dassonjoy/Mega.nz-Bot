@@ -23,10 +23,10 @@ async def inline_megadl(client, query):
         megadl_q = query.query.strip().lower()
         if megadl_q.strip() == "":
             aboutinlinemsg = """
-            ✪ **[Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot)**
-`A Simple ` [Open Source](https://github.com/Itz-fork/Mega.nz-Bot)` Telegram Bot to Do `[More](https://github.com/Itz-fork/Mega.nz-Bot#features)` with Mega.nz Cloud Storage.`
+            ✪ **[Mega.nz-Bot](https://github.com/BlackBox-cmd)**
+`A Simple ` [Open Source](https://github.com/BlackBox-cmd)` Telegram Bot to Do `[More](https://github.com/Itz-fork/Mega.nz-Bot#features)` with Mega.nz Cloud Storage.`
                 
-**Developed with ❤️ by [Itz-fork](https://github.com/Itz-fork)**
+**Developed with ❤️ by [BlackBox-cmd](https://github.com/BlackBox-cmd)**
 """
             helpinlinemsg = """
 **Hey, Choose the help mod using below buttons 😇**
